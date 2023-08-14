@@ -1,4 +1,4 @@
-import HeaderImage from '../../assests/header.jpg'
+import HeaderImage from '../../assests/pi4.jpg'
 import data from './data'
 import './header.css'
 
